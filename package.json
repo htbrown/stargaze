@@ -1,0 +1,17 @@
+{
+  "name": "star",
+  "version": "1.0.0",
+  "description": "A simple starboard Discord bot. ",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hexabyte",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "enmap": "^2.6.3",
+    "enmap-level": "^2.1.0",
+    "hexalogger": "^1.1.3"
+  }
+}
